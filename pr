@@ -1,0 +1,375 @@
+%Base De Conhecimento
+
+%profissao(id do perfil, nome do perfil)
+
+perfil(1,'Prático').
+perfil(2,'Investigador').
+perfil(3,'Artista').
+perfil(4,'Social').
+perfil(5,'Empreendedor').
+perfil(6,'Administrativo').
+
+
+%profissao(id do perfil, profissao)
+
+%Pratico
+%
+%Profissional ou Tecnolígico
+
+profissao(1,'Artífice').
+profissao(1,'Contramestre').
+profissao(1,'Modelista de Vestuário').
+profissao(1,'Técnico Agro-Florestal').
+profissao(1,'Técnico de Artes Gráficas').
+profissao(1,'Técnico de Automação Industrial').
+profissao(1,'Técnico de Cartografia').
+profissao(1,'Técnico de Cerâmica').
+profissao(1,'Técnico de Confecção').
+profissao(1,'Técnico de Construção Civil').
+profissao(1,'Técnico de Desenho Técnico').
+profissao(1,'Técnico de Construção Naval').
+profissao(1,'Técnico de Electricidade Naval').
+profissao(1,'Técnico de Electrónica').
+profissao(1,'Técnico de Electrotecnia').
+profissao(1,'Técnico de Energias Renováveis').
+profissao(1,'Técnico de Gás').
+profissao(1,'Técnico de Indústria Cerâmica').
+profissao(1,'Técnico de Indústria Corticeira').
+profissao(1,'Técnico de Informática - Manutenção').
+profissao(1,'Técnico de Instalações Eléctricas').
+profissao(1,'Técnico de Jardinagem e Espaços Verdes').
+profissao(1,'Técnico de Luz e Som - Artes do Espectáculo').
+profissao(1,'Técnico de Manutenção Industrial').
+profissao(1,'Técnico de Mecânica').
+profissao(1,'Técnico de Mecânica Naval').
+profissao(1,'Técnico de Mecatrónica').
+profissao(1,'Técnico de Pedreiras').
+profissao(1,'Técnico de Produção Agrária').
+profissao(1,'Técnico de Produção Animal').
+profissao(1,'Técnico de Produção em Metalomecânica').
+profissao(1,'Técnico de Reparação e Manutenção de Embarcações de Recreio').
+profissao(1,'Técnico de Telecomunicações').
+profissao(1,'Técnico de Tinturaria').
+profissao(1,'Técnico de Topografia').
+profissao(1,'Técnico de Transformação de Materiais').
+profissao(1,'Técnico de Viticultura e Enologia').
+profissao(1,'Técnico de Som').
+profissao(1,'Técnico de Som e Video').
+profissao(1,'Técnico de Video').
+
+
+%Ensino Superior
+%
+
+profissao(1,'Biomecânico').
+profissao(1,'Engenheiro Aeroespacial').
+profissao(1,'Engenheiro Aeronáutico').
+profissao(1,'Engenheiro Automóvel').
+profissao(1,'Engenheiro Civil').
+profissao(1,'Engenheiro de Arquitetura Naval').
+profissao(1,'Engenheiro de Automação de Controlo').
+profissao(1,'Engenheiro de Electrónica').
+profissao(1,'Engenheiro de Energias Renováveis').
+profissao(1,'Engenheiro de Madeiras').
+profissao(1,'Engenheiro de Máquinas Marítimas').
+profissao(1,'Engenheiro de Materiais').
+profissao(1,'Engenheiro de Micro e Nanotecnologia').
+profissao(1,'Engenheiro de Petróleos').
+profissao(1,'Engenheiro de Produção Animal').
+profissao(1,'Engenheiro de Telecomunicações').
+profissao(1,'Engenheiro Electrotécnico').
+profissao(1,'Engenheiro Electromecânico').
+profissao(1,'Engenheiro Geológico').
+profissao(1,'Engenheiro Industrial').
+profissao(1,'Engenheiro Mecânico').
+profissao(1,'Engenheiro Mecatrónico').
+profissao(1,'Engenheiro Metalúrgico').
+profissao(1,'Engenheiro Têxtil').
+profissao(1,'Enólogo').
+profissao(1,'Oficial da Polícia').
+profissao(1,'Piloto de Aviões').
+profissao(1,'Técnico Superior de Informática').
+profissao(1,'Técnico Superior de Redes').
+profissao(1,'Técnico Superior de Tecnologia dos Equipamentos de Saúde').
+profissao(1,'Topógrafo ou Engenheiro Topógrafo').
+profissao(1,'Zootécnico ou Engenheiro Zootécnico').
+
+
+%Profissional ou Tecnológico - Investigador
+
+profissao(2,'Assistente de Arqueólogo').
+profissao(2,'Técnico de Análise Laboratorial').
+profissao(2,'Técnico de Programação de Sistemas Informáticos').
+profissao(2,'Técnico de Indústrias Agro-Alimentares').
+profissao(2,'Técnido de Informática Aplicada').
+profissao(2,'Técnido de Museografia Arqueológica').
+profissao(2,'Técnido de Química Industrial').
+profissao(2,'Técnido de Química Têxtil').
+profissao(2,'Técnido de Recuperação do Património Edificado').
+profissao(2,'Técnido de Recursos Marinhos').
+profissao(2,'Técnido de Sistemas de Informação Geográfica').
+
+%Ensino SUperior - Investigador
+
+profissao(2,'Analista de Sistemas ou Engenheiro de Sistemas').
+profissao(2,'Analista Clínico').
+profissao(2,'Antropólogo').
+profissao(2,'Arqueólogo').
+profissao(2,'Astrónomo').
+profissao(2,'Biólogo ou Engenheiro Biológico').
+profissao(2,'Bioquímico').
+profissao(2,'Biotecnológico ou Engenheiro Biotecnológico').
+profissao(2,'Criminólogo').
+profissao(2,'Dentista').
+profissao(2,'Ecologista').
+profissao(2,'Economista').
+profissao(2,'Engenheiro Agrónomo ou Agrónomo').
+profissao(2,'Engenheiro Biomédico ou Biomédico').
+profissao(2,'Engenheiro de Biosistemas').
+profissao(2,'Engenheiro de Polímeros').
+profissao(2,'Engenheiro de Qualidade').
+profissao(2,'Engenheiro do Ambiente ou Ambientalista').
+profissao(2,'Engenheiro Florestal').
+profissao(2,'Estatístico').
+profissao(2,'Farmacêutico').
+profissao(2,'Físico ou Engenheiro Físico').
+profissao(2,'Geógrafo ou Engenheiro Geógrafo').
+profissao(2,'Geólogo ou Engenheiro Geólogo').
+profissao(2,'Historiador').
+profissao(2,'Médico').
+profissao(2,'Meteorologista').
+profissao(2,'Oceonógrafo').
+profissao(2,'Professor do Ensino Superior').
+profissao(2,'Programador').
+profissao(2,'Químico ou Engenheiro Químico').
+profissao(2,'Sociólogo').
+profissao(2,'Técnico Superior Agro-Alimentar ou Engenheiro Alimentar').
+profissao(2,'Técnico Superior de Estudos Culturais').
+profissao(2,'Teólogo').
+profissao(2,'Tradutor').
+profissao(2,'Veterinário').
+
+
+%Profissional ou Tecnológico - Artista
+
+profissao(3,'Actor').
+profissao(3,'Animador Circense').
+profissao(3,'Assistente de Conservação e Restauro').
+profissao(3,'Bailarino ou Dançarino').
+profissao(3,'Cenógrafo').
+profissao(3,'Desenhador Projectista').
+profissao(3,'Músico').
+profissao(3,'Realizador').
+profissao(3,'Técnico de Animação 2D e 3D').
+profissao(3,'Técnico de Audiovisuais').
+profissao(3,'Técnico de Cantaria Artística').
+profissao(3,'Técnico de Cerâmica Artística').
+profissao(3,'Técnico de Computação Gráfica').
+profissao(3,'Técnico de Desenho Gráfico').
+profissao(3,'Técnico de Desenho Animado').
+profissao(3,'Ténico de Desenho Digital 3D').
+profissao(3,'Técnico de Design').
+profissao(3,'Técnico de Estilismo').
+profissao(3,'Técnico de Forografia').
+profissao(3,'Técnico de Iluminação - Teatro').
+profissao(3,'Técnico de Jornalismo').
+profissao(3,'Técnico de Multimédia').
+profissao(3,'Técnico de Vidro Artístico').
+profissao(3,'Técnico de Vitrinismo').
+
+%Ensino Superior - Artista
+
+profissao(3,'Actor').
+profissao(3,'Arquitecto').
+profissao(3,'Bailarino ou Dançarino').
+profissao(3,'Cantor').
+profissao(3,'Cenógrafo').
+profissao(3,'Coreógrafo').
+profissao(3,'Decorador').
+profissao(3,'Designer').
+profissao(3,'Encenador').
+profissao(3,'Escultor').
+profissao(3,'Escritor').
+profissao(3,'Fotógrafo').
+profissao(3,'Jornalista').
+profissao(3,'Músico').
+profissao(3,'Pintor Artístico').
+profissao(3,'Projectista de Mobiliário').
+profissao(3,'Realizador').
+profissao(3,'Técnico Superior de Cerâmica Artística').
+profissao(3,'Técnico Superior de Conservação e Restauro').
+profissao(3,'Técnico SUperior de Estudos Artísticos').
+profissao(3,'Técnico Superior de Multimédia').
+profissao(3,'Web Designer').
+
+
+%Social
+%
+%
+
+%
+%Ensino Profissional ou Tecnológico
+%
+
+profissao(4,'Animador Sociocultural').
+profissao(4,'Técnico Assistente Familiar').
+profissao(4,'Técnico Auxiliar de Infância').
+profissao(4,'Técnico Auxiliar de Saúde').
+profissao(4,'Técnico Auxiliar de Protésico').
+profissao(4,'Técnico de Apoio Psicossocial').
+profissao(4,'Técnico de Apoio Social').
+profissao(4,'Técnico de Cinofilia').
+profissao(4,'Técnico de Geriatria').
+profissao(4,'Técnico de Gestão Equina').
+profissao(4,'Técnico de Óptica Ocular').
+profissao(4,'Técnico de Termalismo').
+
+%
+%Ensino Superior
+%
+
+profissao(4,'Animador Desportista').
+profissao(4,'Animador Sociocultural').
+profissao(4,'Animador Socioeducativo').
+profissao(4,'Animador Turístico').
+profissao(4,'Assistente Social').
+profissao(4,'Educador de infância').
+profissao(4,'Educador Físico').
+profissao(4,'Enfermeiro').
+profissao(4,'Equinicultor').
+profissao(4,'Fisioterapeuta').
+profissao(4,'Gerontologista').
+profissao(4,'Gestor de Recursos Humanos').
+profissao(4,'Nutricionista').
+profissao(4,'Professor do Ensino Básico e Secundário').
+profissao(4,'Psicólogo').
+profissao(4,'Técnico Superior de Desporto e Bem-Estar ou Lazer').
+profissao(4,'Técnico Superior de Reabilitaçãp e Inserção Social').
+profissao(4,'Técnico Superior de Saúde(Outras Profissões relacionadas com a Saúde)').
+profissao(4,'Terapeuta de Fala').
+profissao(4,'Terapeuta Ocupacional').
+
+%Profissional ou Tecnológico - Empreendedor
+
+profissao(5,'Animador Sociocultural - Organização e Planeamento').
+profissao(5,'Técnico de Comércio').
+profissao(5,'Técnico de Comunicação - Marketing, Relações Públcas e Publicidade').
+profissao(5,'Técnico de Coordenação e Produção de Moda').
+profissao(5,'Técnico de Dinamização Desportiva').
+profissao(5,'Técnico de Empresario').
+profissao(5,'Técnico de Gestão').
+profissao(5,'Técnico de Gestão Cinegética').
+profissao(5,'Técnico de Gestão de Equipamentos Informáticos').
+profissao(5,'Técnico de Gestão de Produção').
+profissao(5,'Técnico de Gestão de Sistemas de Informação').
+profissao(5,'Técnico de Gestão do Ambiente').
+profissao(5,'Técnico de Gestão e Recuperação de Espaços Verdes').
+profissao(5,'Técnico de Marketing').
+profissao(5,'Técnico de Organização Desportiva').
+profissao(5,'Técnico de Património Cultural - Gestão e Divulgação').
+profissao(5,'Técnico de Planeamento e Gestão de Produção').
+profissao(5,'Técnico de Recursos Florestais e Ambientais').
+profissao(5,'Técnico de Transportes').
+profissao(5,'Técnico de Vendas').
+
+%Ensino Superior - Empreendedor
+
+profissao(5,'Advogado').
+profissao(5,'Diplomata').
+profissao(5,'Gestor Administrativo').
+profissao(5,'Gestor Autárquico').
+profissao(5,'Gestor Bancário').
+profissao(5,'Gestor Biorecursos').
+profissao(5,'Gestor Comercial').
+profissao(5,'Gestor da Distribuição e da Logística').
+profissao(5,'Gestor de Construção').
+profissao(5,'Gestor de Desporto').
+profissao(5,'Gestor de Empresas').
+profissao(5,'Gestor de Eventos').
+profissao(5,'Gestor de Marketing ou Publicitário').
+profissao(5,'Gestor de Projectos').
+profissao(5,'Gestor de Território').
+profissao(5,'Gestor de Transportes e Logística').
+profissao(5,'Gestor de Unidades de Saúde').
+profissao(5,'Gestor do Património').
+profissao(5,'Gestor Imobiliário').
+profissao(5,'Gestor Internacional').
+profissao(5,'Gestor Financeiro').
+profissao(5,'Gestor Hoteleiro').
+profissao(5,'Gestor Portuário').
+profissao(5,'Gestor Sociocultural').
+profissao(5,'Gestor Turístico').
+profissao(5,'Guia-Intérprete').
+profissao(5,'Juiz').
+profissao(5,'Magistrado do Ministério Público').
+profissao(5,'Paisagista').
+profissao(5,'Político').
+profissao(5,'Relações Públicas').
+profissao(5,'Treinador').
+profissao(5,'Urbanista').
+
+%
+%Administrativo
+%
+
+%Ensino Profissional ou Tecnológico
+%
+profissao(6,'Técnico de Administração Naval').
+profissao(6,'Técnico de Arquivo').
+profissao(6,'Técnico de Banca').
+profissao(6,'Técnico de Biblioteca, Arquivo e Documentação').
+profissao(6,'Técnico de Contabilidade').
+profissao(6,'Técnico de Controlo de Qualidade').
+profissao(6,'Técnico de Higiene e Segurança no Trabalho').
+profissao(6,'Técnico de Hotelaria').
+profissao(6,'Técnico de Informação Turística').
+profissao(6,'Técnico de Informação de Gestão').
+profissao(6,'Técnico de Recepção').
+profissao(6,'Técnico de Restauração').
+profissao(6,'Técnico de Secretariado').
+profissao(6,'Técnico de Segurança e Salvametno em Meio Aquático').
+profissao(6,'Técnico de Seguros').
+profissao(6,'Técnico de Serviços Jurídicos').
+profissao(6,'Técnico de Sistemas de Informação').
+profissao(6,'Técnico de Turismo').
+profissao(6,'Técnico de Turismo Ambiental e Rural').
+
+
+%
+%Ensino Superior
+%
+
+profissao(6,'Actuário').
+profissao(6,'Arquivista').
+profissao(6,'Auditor Financeiro').
+profissao(6,'Bibliotecário').
+profissao(6,'Contabilista').
+profissao(6,'Ergonomista').
+profissao(6,'Informático de Gestão').
+profissao(6,'Notário').
+profissao(6,'Secretário').
+profissao(6,'Solicitador').
+profissao(6,'Técnico Superior de Finanças').
+profissao(6,'Técnico Superior de Fiscalidade').
+profissao(6,'Técnico Superior de Proteção Civil').
+profissao(6,'Técnico Superior de Restauração').
+profissao(6,'Técnico Superior de Segurança e Higiene no Trabalho').
+profissao(6,'Técnico Superior de Segurança e Qualidade no Trabalho').
+profissao(6,'Técnico Superior de Sistemas de Informação').
+profissao(6,'Técnico Superior de Turismo').
+
+
+
+
+
+
+
+
+
+%Factos
+%
+
+
+%usuário(nome do usuário, senha).
+
+usuário(root,root).
